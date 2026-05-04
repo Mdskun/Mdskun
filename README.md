@@ -21,11 +21,11 @@
 * **Log Analyser** – Python tool for parsing, analyzing, and summarizing log files.
 * **FeedReader** – A Production-ready app with terraform deployment.
 * **Secure Polling App** – Full-stack Production Ready app with focus on backend security and deployment.
-#* **Dinner Decider** – An material3 designed Android app for random dinner suggestions
+<!--#* **Dinner Decider** – An material3 designed Android app for random dinner suggestions-->
 * **Txt2SQL** – Backend-focused NLP project converting natural language to SQL.
-#* **YML Generator** – Utility tool for generating configuration files (DevOps-friendly)
+<!--#* **YML Generator** – Utility tool for generating configuration files (DevOps-friendly)-->
 * **Task Management System** – A Production-ready app with dockerised container.
-#* **MySQL2CRUD**
+<!--#* **MySQL2CRUD**-->
 
 👉 These projects reflect my interest in **systems, automation, and reliability**.
 
