@@ -103,6 +103,9 @@
   <a href="mailto:manthandsoni@gmail.com">
     <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://github.com/Mdskun/Mdskun/raw/main/Manthan_Soni_Resume.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/resume-%23FF5722.svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+</a>
 </div>
 
 ---
