@@ -43,11 +43,11 @@
 | [ansible-configs](https://github.com/Mdskun/ansible-configs) | Ansible playbooks for configuration management | Ansible, Linux |
 | [YML-Generator](https://github.com/Mdskun/YML-Generator) | Tool for generating YAML configuration files | Python, YAML |
 | [Txt2SQL](https://github.com/Mdskun/Txt2SQL) | NLP tool that converts English questions into SQL queries using a T5 model | Python, HuggingFace, SQLite |
-| [task-management-system](https://github.com/Mdskun/task-management-system) | Full-stack task manager with user auth | Node.js, Express, MySQL, HTML/CSS |
-| [file-handler](https://github.com/Mdskun/file-handler) | File handling utility | Python |
-| [ForceHabits](https://github.com/Mdskun/ForceHabits) | Habit tracking app | JavaScript |
-| [medTimer_anlysis](https://github.com/Mdskun/medTimer_anlysis) | Analysis of medication timing data | Python |
-| [my-portfolio](https://github.com/Mdskun/my-portfolio) | This portfolio website | HTML, CSS, JavaScript |
+<!-- | [task-management-system](https://github.com/Mdskun/task-management-system) | Full-stack task manager with user auth | Node.js, Express, MySQL, HTML/CSS | -->
+| [file-handler](https://github.com/Mdskun/file-handler) | File handling utility scripts | Python |
+| [ForceHabits](https://github.com/Mdskun/ForceHabits) | Habit tracking app | kotlin |
+<!-- | [medTimer_anlysis](https://github.com/Mdskun/medTimer_anlysis) | Analysis of medication timing data | kotlin |
+| [my-portfolio](https://github.com/Mdskun/my-portfolio) | This portfolio website | HTML, CSS, JavaScript | -->
 
 👉 [See all repositories on GitHub](https://github.com/Mdskun?tab=repositories)
 
